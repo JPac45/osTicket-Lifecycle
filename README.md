@@ -41,16 +41,15 @@ Logon to osTicket Agent portal as the main admin - http://localhost/osTicket/scp
 </p>
 <br />
 
-<h2>Working the Issue</h2>
+<h2>Working the Issue and Ticket Resolution</h2>
 
 Sign in as an agent to work the ticket.
 
-- In
-- Assign
-- Wor
+- Open the ticket > Type in a Response > Choose Resolved in Ticket Status: > Post Reply
+- Ticket is now resolved. To see the resolved ticket, Click on the Closed tab.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wIt0Q0t.gif"/>
 </p>
 <p>
 </p>
