@@ -16,9 +16,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Intake</h2>
 
 - Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Assig
+- Working 
+- Res
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -29,10 +29,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Assignment and Communication</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- In
+- Ass
+- Work
+- Res
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -43,10 +43,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Working the Issue</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- In
+- Assign
+- Wor
+- Re
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -57,10 +57,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Resolution</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- In
+- Assignm
+- Work
+- Reso
 
 
 <p>
