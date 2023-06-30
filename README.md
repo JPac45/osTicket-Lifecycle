@@ -29,6 +29,8 @@ To create a trouble ticket, you first need to open the ticket portal - http://lo
 
 <h2>Assignment and Communication</h2>
 
+Logon to osTicket Agent portal - http://localhost/osTicket/scp/login.php
+
 - In
 - Ass
 - Work
