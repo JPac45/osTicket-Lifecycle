@@ -29,7 +29,7 @@ To create a trouble ticket, you first need to open the ticket portal - http://lo
 
 <h2>Assignment and Communication</h2>
 
-Logon to osTicket Agent portal as the main admin - http://localhost/osTicket/scp/login.php
+Logon to osTicket Agent portal as the main admin - http://localhost/osTicket/scp/login.php .
 
 - Tickets Tab > Assign To: > Assign an agent > Assign
 - Update Default SLA > Choose a Severity Level > Update
@@ -43,10 +43,11 @@ Logon to osTicket Agent portal as the main admin - http://localhost/osTicket/scp
 
 <h2>Working the Issue</h2>
 
+Sign in as an agent to work the ticket.
+
 - In
 - Assign
 - Wor
-- Re
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
