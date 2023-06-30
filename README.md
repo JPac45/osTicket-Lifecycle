@@ -18,12 +18,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 To create a trouble ticket, you first need to open the ticket portal - http://localhost/osTicket/   and login.
 
 - Open a New Ticket > fillout information to create a ticket > Create Ticket
-- Assig
-- Working 
-- Res
+- Create a couple more tickets with different severities.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JeqBKTO.gif"/>
 </p>
 <p>
 </p>
