@@ -15,7 +15,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Intake</h2>
 
-- Intake
+To create a trouble ticket, you first need to open the ticket portal - http://localhost/osTicket/   and login.
+
+- Open a New Ticket > fillout information to create a ticket > Create Ticket
 - Assig
 - Working 
 - Res
