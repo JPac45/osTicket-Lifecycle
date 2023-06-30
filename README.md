@@ -55,17 +55,3 @@ Sign in as an agent to work the ticket.
 </p>
 <br />
 
-<h2>Resolution</h2>
-
-- In
-- Assignm
-- Work
-- Reso
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-</p>
-<br />
